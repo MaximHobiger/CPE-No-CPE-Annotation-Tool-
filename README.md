@@ -18,5 +18,5 @@ Built using `Tkinter`, `Pillow`, and `pandas`.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cpe-annotation-tool.git
+git clone https://github.com/MaximHobiger/cpe-annotation-tool.git
 cd cpe-annotation-tool
